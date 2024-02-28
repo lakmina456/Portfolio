@@ -29,7 +29,7 @@ This project was built using the following technologies.
 
 Run this command to clone the repository: 
 
-    git clone https://github.com/lakmina456/portfolio456.git
+    git clone https://github.com/lakmina456/Portfolio.git
 
 ## **Show your support**
 
