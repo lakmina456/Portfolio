@@ -1,6 +1,6 @@
 # Welcome to my Portfolio Website
 
-	https://github.com/lakmina456/portfolio456
+	https://github.com/lakmina456/Portfolio
 
 # Website link 
 
