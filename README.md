@@ -4,7 +4,7 @@
 
 # Website link 
 
-	https://portfoliomy456.000webhostapp.com/
+	https://lakmina456.github.io/Portfolio/
 
 ## **Built With**
 
